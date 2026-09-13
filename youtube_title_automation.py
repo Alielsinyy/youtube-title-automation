@@ -7,7 +7,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 VIDEO_ID = "9MyMovWe6Ag"
-TITLE_FORMAT = "الفيديو ده عنده ({views})مشاهده"
+TITLE_FORMAT = "هو الفيديو ده عنده ({views})مشاهده؟"
 SAFE_DAILY_LIMIT = 180
 STATE_FILE = "state.json"
 
